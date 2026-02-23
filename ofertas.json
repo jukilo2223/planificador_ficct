@@ -1,0 +1,4653 @@
+[
+    {
+        "sigla": "ADM100",
+        "grupo": "SA",
+        "materia": "ADMINISTRACION",
+        "docente": "FLORES FLORES MARCOS OSCAR",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "18:15",
+                "fin": "19:45"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "18:15",
+                "fin": "19:45"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "18:15",
+                "fin": "19:45"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT103",
+        "grupo": "SA",
+        "materia": "ALGEBRA LINEAL",
+        "docente": "CORTEZ UZEDA JULIO MARTIN",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "8:30",
+                "fin": "10:00"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "8:30",
+                "fin": "10:00"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "8:30",
+                "fin": "10:00"
+            }
+        ]
+    },
+    {
+        "sigla": "RDS210",
+        "grupo": "SA",
+        "materia": "ANALISIS DE CIRCUITOS",
+        "docente": "MONRROY DIPP VICTOR FERNANDO",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "7:00",
+                "fin": "9:15"
+            }
+        ]
+    },
+    {
+        "sigla": "FIS100",
+        "grupo": "Z6",
+        "materia": "FISICA I",
+        "docente": "PINTO VARGAS EDUARDO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Sab",
+                "inicio": "18:15",
+                "fin": "19:45"
+            }
+        ]
+    },
+    {
+        "sigla": "ADM100",
+        "grupo": "SA",
+        "materia": "ADMINISTRACION",
+        "docente": "FLORES FLORES MARCOS OSCAR",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "18:15",
+                "fin": "19:45"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "18:15",
+                "fin": "19:45"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "18:15",
+                "fin": "19:45"
+            }
+        ]
+    },
+    {
+        "sigla": "ADM100",
+        "grupo": "SB",
+        "materia": "ADMINISTRACION",
+        "docente": "FLORES FLORES MARCOS OSCAR",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            }
+        ]
+    },
+    {
+        "sigla": "ADM100",
+        "grupo": "SC",
+        "materia": "ADMINISTRACION",
+        "docente": "CABELLO MERIDA JUAN RUBEN",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT103",
+        "grupo": "SA",
+        "materia": "ALGEBRA LINEAL",
+        "docente": "CORTEZ UZEDA JULIO MARTIN",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "8:30",
+                "fin": "10:00"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "8:30",
+                "fin": "10:00"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "8:30",
+                "fin": "10:00"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT103",
+        "grupo": "SB",
+        "materia": "ALGEBRA LINEAL",
+        "docente": "CORTEZ UZEDA JULIO MARTIN",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT103",
+        "grupo": "SC",
+        "materia": "ALGEBRA LINEAL",
+        "docente": "CORTEZ UZEDA JULIO MARTIN",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT103",
+        "grupo": "SD",
+        "materia": "ALGEBRA LINEAL",
+        "docente": "CORTEZ UZEDA JULIO MARTIN",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "11:30",
+                "fin": "13:00"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "11:30",
+                "fin": "13:00"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "11:30",
+                "fin": "13:00"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT103",
+        "grupo": "SE",
+        "materia": "ALGEBRA LINEAL",
+        "docente": "GUTIERREZ BRUNO KATIME ESTHER",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT103",
+        "grupo": "SF",
+        "materia": "ALGEBRA LINEAL",
+        "docente": "GIANELLA PEREDO EDUARDO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "7:00",
+                "fin": "9:15"
+            }
+        ]
+    },
+    {
+        "sigla": "RDS210",
+        "grupo": "SA",
+        "materia": "ANALISIS DE CIRCUITOS",
+        "docente": "MONRROY DIPP VICTOR FERNANDO",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "7:00",
+                "fin": "9:15"
+            }
+        ]
+    },
+    {
+        "sigla": "RDS210",
+        "grupo": "SB",
+        "materia": "ANALISIS DE CIRCUITOS",
+        "docente": "MONRROY DIPP VICTOR FERNANDO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            }
+        ]
+    },
+    {
+        "sigla": "RDS220",
+        "grupo": "SZ",
+        "materia": "ANALISIS DE CIRCUITOS ELECTRON.",
+        "docente": "MONRROY DIPP VICTOR FERNANDO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "8:30",
+                "fin": "10:00"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "8:30",
+                "fin": "10:00"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "8:30",
+                "fin": "10:00"
+            }
+        ]
+    },
+    {
+        "sigla": "RDS410",
+        "grupo": "SA",
+        "materia": "APLICACIONES CON MICROPROCESADORES",
+        "docente": "CARVAJAL CORDERO MARCIO",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "16:00",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "16:00",
+                "fin": "18:15"
+            }
+        ]
+    },
+    {
+        "sigla": "INF211",
+        "grupo": "SA",
+        "materia": "ARQUITECTURA DE COMPUTADORAS",
+        "docente": "HINOJOSA SAAVEDRA JOSE SAID",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF211",
+        "grupo": "SB",
+        "materia": "ARQUITECTURA DE COMPUTADORAS",
+        "docente": "HINOJOSA SAAVEDRA JOSE SAID",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "18:15",
+                "fin": "20:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "18:15",
+                "fin": "20:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF552",
+        "grupo": "SA",
+        "materia": "ARQUITECTURA DEL SOFTWARE",
+        "docente": "VEIZAGA GONZALES JOSUE OBED",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF462",
+        "grupo": "SA",
+        "materia": "AUDITORIA INFORMATICA",
+        "docente": "VARGAS PEÑA LEONARDO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "16:45",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "16:45",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "16:45",
+                "fin": "18:15"
+            }
+        ]
+    },
+    {
+        "sigla": "INF312",
+        "grupo": "SA",
+        "materia": "BASE DE DATOS I",
+        "docente": "VEIZAGA GONZALES JOSUE OBED",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "8:30",
+                "fin": "10:00"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "8:30",
+                "fin": "10:00"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "8:30",
+                "fin": "10:00"
+            }
+        ]
+    },
+    {
+        "sigla": "INF312",
+        "grupo": "SC",
+        "materia": "BASES DE DATOS I",
+        "docente": "VEIZAGA GONZALES JOSUE OBED",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "7:00",
+                "fin": "9:15"
+            }
+        ]
+    },
+    {
+        "sigla": "INF322",
+        "grupo": "SD",
+        "materia": "BASES DE DATOS II",
+        "docente": "PEREZ FERREIRA UBALDO",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "18:15",
+                "fin": "20:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "18:15",
+                "fin": "20:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF322",
+        "grupo": "SB",
+        "materia": "BASES DE DATOS II",
+        "docente": "PEREZ FERREIRA UBALDO",
+        "horarios": [
+            {
+                "dia": "Mie",
+                "inicio": "10:45",
+                "fin": "13:00"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "10:45",
+                "fin": "13:00"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT101",
+        "grupo": "F1",
+        "materia": "CALCULO I",
+        "docente": "AVENDAÑO GONZALES EUDAL",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "18:15",
+                "fin": "20:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "18:15",
+                "fin": "20:30"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT101",
+        "grupo": "SZ",
+        "materia": "CALCULO I",
+        "docente": "JUSTINIANO VACA JUAN TOMAS",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "9:15",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "9:15",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT101",
+        "grupo": "CI",
+        "materia": "CALCULO I",
+        "docente": "TEJERINA GUERRA JULIO",
+        "horarios": [
+            {
+                "dia": "Mie",
+                "inicio": "13:45",
+                "fin": "16:00"
+            },
+            {
+                "dia": "Lun",
+                "inicio": "13:45",
+                "fin": "16:00"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT101",
+        "grupo": "I2",
+        "materia": "CALCULO I",
+        "docente": "JUSTINIANO ROCA RONALD",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT101",
+        "grupo": "SF",
+        "materia": "CALCULO I",
+        "docente": "MORALES MENDEZ MAGALY",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "7:00",
+                "fin": "9:15"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT101",
+        "grupo": "SG",
+        "materia": "CALCULO I",
+        "docente": "CALIZAYA AJHUACHO MAGNO EDWIN",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "16:00",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "16:00",
+                "fin": "18:15"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT101",
+        "grupo": "SI",
+        "materia": "CALCULO I",
+        "docente": "OROPEZA CLAURE GUSTAVO ADOLFO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "18:15",
+                "fin": "19:45"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "18:15",
+                "fin": "19:45"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "18:15",
+                "fin": "19:45"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT101",
+        "grupo": "SP",
+        "materia": "CALCULO I",
+        "docente": "DURAN CESPEDES BERTHY RONALD",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "7:00",
+                "fin": "9:15"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT101",
+        "grupo": "Z1",
+        "materia": "CALCULO I",
+        "docente": "SILES MUÑOZ FELIX",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "9:15",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "9:15",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT101",
+        "grupo": "Z2",
+        "materia": "CALCULO I",
+        "docente": "ABARCA SOTA NANCY",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "9:15",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "9:15",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT101",
+        "grupo": "Z3",
+        "materia": "CALCULO I",
+        "docente": "MIRANDA CARRASCO CARLOS",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "16:00",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "16:00",
+                "fin": "18:15"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT101",
+        "grupo": "Z4",
+        "materia": "CALCULO I",
+        "docente": "VALDELOMAR ORELLANA TOMAS",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "13:45",
+                "fin": "16:00"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "13:45",
+                "fin": "16:00"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT101",
+        "grupo": "Z5",
+        "materia": "CALCULO I",
+        "docente": "ACOSTA CABEZAS BARTOLO JAVIER",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "19:45",
+                "fin": "21:15"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "19:45",
+                "fin": "21:15"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "19:45",
+                "fin": "21:15"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT101",
+        "grupo": "Z6",
+        "materia": "CALCULO I",
+        "docente": "CARRENO PEREIRA ANDRES",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT102",
+        "grupo": "SB",
+        "materia": "CALCULO II",
+        "docente": "LAZO ARTEAGA CARLOS ROBERTO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "20:30",
+                "fin": "22:00"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "20:30",
+                "fin": "22:00"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "20:30",
+                "fin": "22:00"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT102",
+        "grupo": "SD",
+        "materia": "CALCULO II",
+        "docente": "CARRENO PEREIRA ANDRES",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Sab",
+                "inicio": "7:00",
+                "fin": "8:30"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT102",
+        "grupo": "R1",
+        "materia": "CALCULO II",
+        "docente": "GUARACHI SOLANO JONATHAN FELIX",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "12:15",
+                "fin": "13:45"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "12:15",
+                "fin": "13:45"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "12:15",
+                "fin": "13:45"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT102",
+        "grupo": "I1",
+        "materia": "CALCULO II",
+        "docente": "GRIMALDO BRAVO PAUL",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "19:00",
+                "fin": "21:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "19:00",
+                "fin": "21:15"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT102",
+        "grupo": "C1",
+        "materia": "CALCULO II",
+        "docente": "MORALES MENDEZ MAGALY",
+        "horarios": [
+            {
+                "dia": "Mie",
+                "inicio": "9:15",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "7:00",
+                "fin": "9:15"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT102",
+        "grupo": "SH",
+        "materia": "CALCULO II",
+        "docente": "VELASCO GUAMAN ANGEL",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "9:15",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "9:15",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT102",
+        "grupo": "SN",
+        "materia": "CALCULO II",
+        "docente": "POR DESIGNAR",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "16:00",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "16:00",
+                "fin": "18:15"
+            }
+        ]
+    },
+    {
+        "sigla": "INF329",
+        "grupo": "SA",
+        "materia": "COMPILADORES",
+        "docente": "BARROSO VIRUEZ GINO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "11:30",
+                "fin": "13:00"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "11:30",
+                "fin": "13:00"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "11:30",
+                "fin": "13:00"
+            }
+        ]
+    },
+    {
+        "sigla": "ADM200",
+        "grupo": "SA",
+        "materia": "CONTABILIDAD",
+        "docente": "FLORES FLORES MARCOS OSCAR",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "8:30",
+                "fin": "10:00"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "8:30",
+                "fin": "10:00"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "8:30",
+                "fin": "10:00"
+            }
+        ]
+    },
+    {
+        "sigla": "ADM200",
+        "grupo": "SB",
+        "materia": "CONTABILIDAD",
+        "docente": "OROSCO GOMEZ RUBEN",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "16:00",
+                "fin": "17:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "16:00",
+                "fin": "17:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "16:00",
+                "fin": "17:30"
+            }
+        ]
+    },
+    {
+        "sigla": "ELC002",
+        "grupo": "SA",
+        "materia": "COSTOS Y PRESUPUESTOS",
+        "docente": "CHAHIN AVICHACRA JUAN MANUEL",
+        "horarios": [
+            {
+                "dia": "Jue",
+                "inicio": "15:15",
+                "fin": "16:45"
+            },
+            {
+                "dia": "Mar",
+                "inicio": "15:15",
+                "fin": "16:45"
+            }
+        ]
+    },
+    {
+        "sigla": "ELC107",
+        "grupo": "I2",
+        "materia": "CRIPTOGRAFIA Y SEGURIDAD",
+        "docente": "PEREZ DELGADILLO SHIRLEY EULAL",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "17:30",
+                "fin": "19:00"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "17:30",
+                "fin": "19:00"
+            }
+        ]
+    },
+    {
+        "sigla": "ELC107",
+        "grupo": "SA",
+        "materia": "CRIPTOGRAFIA Y SEGURIDAD",
+        "docente": "PEREZ DELGADILLO SHIRLEY EULAL",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "16:00",
+                "fin": "17:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "16:00",
+                "fin": "17:30"
+            }
+        ]
+    },
+    {
+        "sigla": "ELC201",
+        "grupo": "SA",
+        "materia": "DISENO DE CIRCUITOS INTEGRADOS",
+        "docente": "HINOJOSA SAAVEDRA JOSE SAID",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "7:00",
+                "fin": "8:30"
+            }
+        ]
+    },
+    {
+        "sigla": "ECO300",
+        "grupo": "SA",
+        "materia": "ECONOMIA PARA LA GESTION",
+        "docente": "TERRAZAS SOTO RICARDO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "16:45",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "16:45",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "16:45",
+                "fin": "18:15"
+            }
+        ]
+    },
+    {
+        "sigla": "ECO300",
+        "grupo": "SB",
+        "materia": "ECONOMIA PARA LA GESTION",
+        "docente": "TERRAZAS SOTO RICARDO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "11:30",
+                "fin": "13:00"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "11:30",
+                "fin": "13:00"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "11:30",
+                "fin": "13:00"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT207",
+        "grupo": "NW",
+        "materia": "ECUACIONES DIFERENCIALES",
+        "docente": "MIRANDA CARRASCO CARLOS",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "9:15",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "9:15",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT207",
+        "grupo": "NX",
+        "materia": "ECUACIONES DIFERENCIALES",
+        "docente": "GRAGEDA ESCUDERO MARIO WILSON",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "18:15",
+                "fin": "20:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "18:15",
+                "fin": "20:30"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT207",
+        "grupo": "SA",
+        "materia": "ECUACIONES DIFERENCIALES",
+        "docente": "GRAGEDA ESCUDERO MARIO WILSON",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "20:30",
+                "fin": "22:45"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "20:30",
+                "fin": "22:45"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT207",
+        "grupo": "SC",
+        "materia": "ECUACIONES DIFERENCIALES",
+        "docente": "AVENDAÑO GONZALES EUDAL",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "20:30",
+                "fin": "22:45"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "20:30",
+                "fin": "22:45"
+            }
+        ]
+    },
+    {
+        "sigla": "RDS310",
+        "grupo": "SB",
+        "materia": "ELECTRONICA APLICADA A REDES",
+        "docente": "SILES MUÑOZ FELIX",
+        "horarios": [
+            {
+                "dia": "Mie",
+                "inicio": "11:30",
+                "fin": "13:45"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "10:00",
+                "fin": "12:15"
+            }
+        ]
+    },
+    {
+        "sigla": "INF220",
+        "grupo": "I2",
+        "materia": "ESTRUCTURA DE DATOS I",
+        "docente": "PEINADO PEREIRA JUAN CARLOS",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "15:15",
+                "fin": "17:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "15:15",
+                "fin": "17:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF220",
+        "grupo": "SA",
+        "materia": "ESTRUCTURA DE DATOS I",
+        "docente": "LOPEZ WINNIPEG MARIO MILTON",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "7:00",
+                "fin": "9:15"
+            }
+        ]
+    },
+    {
+        "sigla": "INF220",
+        "grupo": "SB",
+        "materia": "ESTRUCTURA DE DATOS I",
+        "docente": "CAMPOS BARRERA MARIO",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "20:30",
+                "fin": "22:45"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "20:30",
+                "fin": "22:45"
+            }
+        ]
+    },
+    {
+        "sigla": "INF220",
+        "grupo": "SD",
+        "materia": "ESTRUCTURA DE DATOS I",
+        "docente": "LOPEZ WINNIPEG MARIO MILTON",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "11:30",
+                "fin": "13:45"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "11:30",
+                "fin": "13:45"
+            }
+        ]
+    },
+    {
+        "sigla": "INF310",
+        "grupo": "SA",
+        "materia": "ESTRUCTURAS DE DATOS II",
+        "docente": "PEINADO PEREIRA JUAN CARLOS",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "7:00",
+                "fin": "9:15"
+            }
+        ]
+    },
+    {
+        "sigla": "INF310",
+        "grupo": "SB",
+        "materia": "ESTRUCTURAS DE DATOS II",
+        "docente": "VACA PINTO CESPEDES ROBERTO CA",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "16:00",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "16:00",
+                "fin": "18:15"
+            }
+        ]
+    },
+    {
+        "sigla": "INF310",
+        "grupo": "SX",
+        "materia": "ESTRUCTURAS DE DATOS II",
+        "docente": "VARGAS YAPURA EDWIN",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "20:30",
+                "fin": "22:45"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "20:30",
+                "fin": "22:45"
+            }
+        ]
+    },
+    {
+        "sigla": "INF119",
+        "grupo": "SE",
+        "materia": "ESTRUCTURAS DISCRETAS",
+        "docente": "VARGAS CASTILLO CIRO EDGAR",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "18:15",
+                "fin": "20:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "18:15",
+                "fin": "20:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF119",
+        "grupo": "SF",
+        "materia": "ESTRUCTURAS DISCRETAS",
+        "docente": "MARTINEZ CARDONA SARAH MIRNA",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF119",
+        "grupo": "SH",
+        "materia": "ESTRUCTURAS DISCRETAS",
+        "docente": "MIRANDA CARRASCO CARLOS",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "7:00",
+                "fin": "9:15"
+            }
+        ]
+    },
+    {
+        "sigla": "INF119",
+        "grupo": "SK",
+        "materia": "ESTRUCTURAS DISCRETAS",
+        "docente": "GUTIERREZ BRUNO KATIME ESTHER",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "7:00",
+                "fin": "9:15"
+            }
+        ]
+    },
+    {
+        "sigla": "INF119",
+        "grupo": "Z2",
+        "materia": "ESTRUCTURAS DISCRETAS",
+        "docente": "CACERES CHACON BRAULIO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "8:30",
+                "fin": "10:00"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "8:30",
+                "fin": "10:00"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "8:30",
+                "fin": "10:00"
+            }
+        ]
+    },
+    {
+        "sigla": "INF119",
+        "grupo": "Z3",
+        "materia": "ESTRUCTURAS DISCRETAS",
+        "docente": "CACERES CHACON BRAULIO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "13:45",
+                "fin": "15:15"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "13:45",
+                "fin": "15:15"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "13:45",
+                "fin": "15:15"
+            }
+        ]
+    },
+    {
+        "sigla": "INF119",
+        "grupo": "SP",
+        "materia": "ESTRUCTURAS DISCRETAS",
+        "docente": "MARTINEZ CARDONA SARAH MIRNA",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF119",
+        "grupo": "Z1",
+        "materia": "ESTRUCTURAS DISCRETAS",
+        "docente": "GUTIERREZ BRUNO KATIME ESTHER",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "8:30",
+                "fin": "10:00"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "8:30",
+                "fin": "10:00"
+            }
+        ]
+    },
+    {
+        "sigla": "INF119",
+        "grupo": "Z4",
+        "materia": "ESTRUCTURAS DISCRETAS",
+        "docente": "CACERES CHACON BRAULIO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "15:15",
+                "fin": "16:45"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "15:15",
+                "fin": "16:45"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "15:15",
+                "fin": "16:45"
+            }
+        ]
+    },
+    {
+        "sigla": "INF119",
+        "grupo": "Z5",
+        "materia": "ESTRUCTURAS DISCRETAS",
+        "docente": "GUTIERREZ BRUNO KATIME ESTHER",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "16:45",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "16:45",
+                "fin": "18:15"
+            }
+        ]
+    },
+    {
+        "sigla": "INF119",
+        "grupo": "Z6",
+        "materia": "ESTRUCTURAS DISCRETAS",
+        "docente": "MARTINEZ CARDONA SARAH MIRNA",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "8:30",
+                "fin": "10:00"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "8:30",
+                "fin": "10:00"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "8:30",
+                "fin": "10:00"
+            }
+        ]
+    },
+    {
+        "sigla": "ADM320",
+        "grupo": "SA",
+        "materia": "FINANZAS PARA LA EMPRESA",
+        "docente": "TERRAZAS SOTO RICARDO",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "11:30",
+                "fin": "13:45"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "11:30",
+                "fin": "13:45"
+            }
+        ]
+    },
+    {
+        "sigla": "ADM320",
+        "grupo": "SC",
+        "materia": "FINANZAS PARA LA EMPRESA",
+        "docente": "CABELLO MERIDA JUAN RUBEN",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "7:00",
+                "fin": "9:15"
+            }
+        ]
+    },
+    {
+        "sigla": "FIS100",
+        "grupo": "R1",
+        "materia": "FISICA I",
+        "docente": "ARANIBAR QUIROZ M. MONICA",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Sab",
+                "inicio": "7:00",
+                "fin": "8:30"
+            }
+        ]
+    },
+    {
+        "sigla": "FIS100",
+        "grupo": "Z6",
+        "materia": "FISICA I",
+        "docente": "PINTO VARGAS EDUARDO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Sab",
+                "inicio": "18:15",
+                "fin": "19:45"
+            }
+        ]
+    },
+    {
+        "sigla": "FIS100",
+        "grupo": "I1",
+        "materia": "FISICA I",
+        "docente": "LAMAS RODRIGUEZ MARCOS",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "16:00",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "16:00",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Lun",
+                "inicio": "12:15",
+                "fin": "13:45"
+            }
+        ]
+    },
+    {
+        "sigla": "FIS100",
+        "grupo": "SG",
+        "materia": "FISICA I",
+        "docente": "SALVATIERRA MERCADO ROLANDO",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Lun",
+                "inicio": "13:00",
+                "fin": "14:30"
+            }
+        ]
+    },
+    {
+        "sigla": "FIS100",
+        "grupo": "SI",
+        "materia": "FISICA I",
+        "docente": "CAYOJA LUCANA VICTOR MILTON",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "FIS100",
+        "grupo": "SK",
+        "materia": "FISICA I",
+        "docente": "CAYOJA LUCANA VICTOR MILTON",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "16:00",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "16:00",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "16:00",
+                "fin": "17:30"
+            }
+        ]
+    },
+    {
+        "sigla": "FIS100",
+        "grupo": "SM",
+        "materia": "FISICA I",
+        "docente": "SANCHEZ VELASCO ENRIQUE",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "15:15",
+                "fin": "16:45"
+            },
+            {
+                "dia": "Mar",
+                "inicio": "15:15",
+                "fin": "16:45"
+            },
+            {
+                "dia": "Mar",
+                "inicio": "16:45",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "15:15",
+                "fin": "16:45"
+            }
+        ]
+    },
+    {
+        "sigla": "FIS100",
+        "grupo": "SP",
+        "materia": "FISICA I",
+        "docente": "CANO CESPEDES JORGE",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "14:30",
+                "fin": "16:00"
+            }
+        ]
+    },
+    {
+        "sigla": "FIS100",
+        "grupo": "Z1",
+        "materia": "FISICA I",
+        "docente": "ORTIZ ARTEAGA VICTOR HUGO",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Mar",
+                "inicio": "12:15",
+                "fin": "13:45"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "7:00",
+                "fin": "9:15"
+            }
+        ]
+    },
+    {
+        "sigla": "FIS100",
+        "grupo": "Z2",
+        "materia": "FISICA I",
+        "docente": "ROMAN ROCA RUFINO WILBERTO",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Mar",
+                "inicio": "11:30",
+                "fin": "13:00"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "7:00",
+                "fin": "9:15"
+            }
+        ]
+    },
+    {
+        "sigla": "FIS100",
+        "grupo": "Z3",
+        "materia": "FISICA I",
+        "docente": "CHAU WONG JORGE",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "16:45",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "16:45",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "18:15",
+                "fin": "19:45"
+            }
+        ]
+    },
+    {
+        "sigla": "FIS100",
+        "grupo": "Z4",
+        "materia": "FISICA I",
+        "docente": "CALDERON FLORES MODESTO FRANKL",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "16:45",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "16:45",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "16:45",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Sab",
+                "inicio": "8:30",
+                "fin": "10:00"
+            }
+        ]
+    },
+    {
+        "sigla": "FIS100",
+        "grupo": "Z5",
+        "materia": "FISICA I",
+        "docente": "LAZO ARTEAGA CARLOS ROBERTO",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "18:15",
+                "fin": "20:30"
+            },
+            {
+                "dia": "Mar",
+                "inicio": "16:45",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "18:15",
+                "fin": "20:30"
+            }
+        ]
+    },
+    {
+        "sigla": "FIS100",
+        "grupo": "Z6",
+        "materia": "FISICA I",
+        "docente": "CALDERON FLORES MODESTO FRANKL",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Sab",
+                "inicio": "18:26",
+                "fin": "19:45"
+            }
+        ]
+    },
+    {
+        "sigla": "FIS102",
+        "grupo": "BI",
+        "materia": "FISICA II",
+        "docente": "ZEBALLOS PAREDES DANIEL LUIS",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "18:15",
+                "fin": "19:45"
+            }
+        ]
+    },
+    {
+        "sigla": "FIS102",
+        "grupo": "R1",
+        "materia": "FISICA II",
+        "docente": "ROCHA ARGOTE FERNANDO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "19:45",
+                "fin": "21:15"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "19:45",
+                "fin": "21:15"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "19:45",
+                "fin": "21:15"
+            },
+            {
+                "dia": "Sab",
+                "inicio": "9:15",
+                "fin": "10:45"
+            }
+        ]
+    },
+    {
+        "sigla": "FIS102",
+        "grupo": "NW",
+        "materia": "FISICA II",
+        "docente": "CALDERON FLORES MODESTO FRANKL",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "18:15",
+                "fin": "20:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "18:15",
+                "fin": "20:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "20:30",
+                "fin": "22:00"
+            }
+        ]
+    },
+    {
+        "sigla": "FIS102",
+        "grupo": "NX",
+        "materia": "FISICA II",
+        "docente": "CALDERON FLORES MODESTO FRANKL",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "FIS102",
+        "grupo": "SA",
+        "materia": "FISICA II",
+        "docente": "ZEBALLOS PAREDES DANIEL LUIS",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "13:45",
+                "fin": "16:00"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "13:45",
+                "fin": "16:00"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "15:15",
+                "fin": "16:45"
+            }
+        ]
+    },
+    {
+        "sigla": "FIS102",
+        "grupo": "SB",
+        "materia": "FISICA II",
+        "docente": "ZEBALLOS PAREDES DANIEL LUIS",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "13:45",
+                "fin": "15:15"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "13:45",
+                "fin": "15:15"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "16:45",
+                "fin": "18:15"
+            }
+        ]
+    },
+    {
+        "sigla": "FIS200",
+        "grupo": "SA",
+        "materia": "FISICA III",
+        "docente": "OQUENDO HEREDIA FREDDY MIGUEL",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Mar",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "7:00",
+                "fin": "9:15"
+            }
+        ]
+    },
+    {
+        "sigla": "FIS200",
+        "grupo": "SB",
+        "materia": "FISICA III",
+        "docente": "ARGOTE CLAROS IRMA ISABEL",
+        "horarios": [
+            {
+                "dia": "Mie",
+                "inicio": "8:30",
+                "fin": "10:00"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "9:15",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "FIS200",
+        "grupo": "SC",
+        "materia": "FISICA III",
+        "docente": "ROSALES FUENTES JORGE MARCELO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "15:15",
+                "fin": "16:45"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "15:15",
+                "fin": "16:45"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "21:15",
+                "fin": "22:45"
+            }
+        ]
+    },
+    {
+        "sigla": "FIS200",
+        "grupo": "X2",
+        "materia": "FISICA III",
+        "docente": "ZUNA VILLAGOMEZ JULIO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "16:00",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Mar",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "13:45",
+                "fin": "16:00"
+            }
+        ]
+    },
+    {
+        "sigla": "FIS200",
+        "grupo": "X3",
+        "materia": "FISICA III",
+        "docente": "OQUENDO HEREDIA FREDDY MIGUEL",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "13:45",
+                "fin": "16:00"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "13:45",
+                "fin": "16:00"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "15:15",
+                "fin": "16:45"
+            }
+        ]
+    },
+    {
+        "sigla": "FIS200",
+        "grupo": "X4",
+        "materia": "FISICA III",
+        "docente": "AGUILAR MARTINEZ DOMINGO",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "13:45",
+                "fin": "15:15"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "16:00",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "13:45",
+                "fin": "16:00"
+            }
+        ]
+    },
+    {
+        "sigla": "RDS511",
+        "grupo": "SA",
+        "materia": "GESTION Y ADMINISTRACION DE REDES",
+        "docente": "VARGAS PEÑA LEONARDO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "18:15",
+                "fin": "19:45"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "18:15",
+                "fin": "19:45"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "18:15",
+                "fin": "19:45"
+            }
+        ]
+    },
+    {
+        "sigla": "ELC005",
+        "grupo": "SA",
+        "materia": "INGENIERIA DE LA CALIDAD",
+        "docente": "CALLE TERRAZAS EDWIN",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "19:00",
+                "fin": "20:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "19:00",
+                "fin": "20:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF422",
+        "grupo": "SC",
+        "materia": "INGENIERIA DE SOFTWARE I",
+        "docente": "MARTINEZ CANEDO ROLANDO ANTONI",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "16:00",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "16:00",
+                "fin": "18:15"
+            }
+        ]
+    },
+    {
+        "sigla": "INF422",
+        "grupo": "SB",
+        "materia": "INGENIERIA DE SOFTWARE I",
+        "docente": "MARTINEZ CANEDO ROLANDO ANTONI",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "15:15",
+                "fin": "16:45"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "15:15",
+                "fin": "16:45"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "15:15",
+                "fin": "16:45"
+            }
+        ]
+    },
+    {
+        "sigla": "INF512",
+        "grupo": "SB",
+        "materia": "INGENIERIA DE SOFTWARE II",
+        "docente": "MARTINEZ CANEDO ROLANDO ANTONI",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "18:15",
+                "fin": "20:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "18:15",
+                "fin": "20:30"
+            }
+        ]
+    },
+    {
+        "sigla": "LIN100",
+        "grupo": "Z2",
+        "materia": "INGLES TECNICO I",
+        "docente": "CLAURE MEDRANO DE OROPEZA ELIZ",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            }
+        ]
+    },
+    {
+        "sigla": "LIN100",
+        "grupo": "NW",
+        "materia": "INGLES TECNICO I",
+        "docente": "ALPIRE RIVERO GERMAN",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "LIN100",
+        "grupo": "NX",
+        "materia": "INGLES TECNICO I",
+        "docente": "ALPIRE RIVERO GERMAN",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "16:00",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "16:00",
+                "fin": "18:15"
+            }
+        ]
+    },
+    {
+        "sigla": "LIN100",
+        "grupo": "Z1",
+        "materia": "INGLES TECNICO I",
+        "docente": "CLAURE MEDRANO DE OROPEZA ELIZ",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "LIN100",
+        "grupo": "Z3",
+        "materia": "INGLES TECNICO I",
+        "docente": "ZUÑIGA RUIZ WILMA",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "13:45",
+                "fin": "16:00"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "13:45",
+                "fin": "16:00"
+            }
+        ]
+    },
+    {
+        "sigla": "LIN100",
+        "grupo": "Z4",
+        "materia": "INGLES TECNICO I",
+        "docente": "ZUÑIGA RUIZ WILMA",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "16:00",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "16:00",
+                "fin": "18:15"
+            }
+        ]
+    },
+    {
+        "sigla": "LIN100",
+        "grupo": "Z5",
+        "materia": "INGLES TECNICO I",
+        "docente": "CLAURE MEDRANO DE OROPEZA ELIZ",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "13:45",
+                "fin": "16:00"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "13:45",
+                "fin": "16:00"
+            }
+        ]
+    },
+    {
+        "sigla": "LIN100",
+        "grupo": "Z6",
+        "materia": "INGLES TECNICO I",
+        "docente": "CLAURE MEDRANO DE OROPEZA ELIZ",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "11:30",
+                "fin": "13:00"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "11:30",
+                "fin": "13:00"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "11:30",
+                "fin": "13:00"
+            }
+        ]
+    },
+    {
+        "sigla": "LIN101",
+        "grupo": "SZ",
+        "materia": "INGLES TECNICO II",
+        "docente": "GRIMALDO BRAVO PAUL",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "8:30",
+                "fin": "10:00"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "8:30",
+                "fin": "10:00"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "8:30",
+                "fin": "10:00"
+            }
+        ]
+    },
+    {
+        "sigla": "LIN101",
+        "grupo": "SC",
+        "materia": "INGLES TECNICO II",
+        "docente": "EVELYN VANESA SORIA AVILA",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "13:45",
+                "fin": "16:00"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "13:45",
+                "fin": "16:00"
+            }
+        ]
+    },
+    {
+        "sigla": "LIN101",
+        "grupo": "SE",
+        "materia": "INGLES TECNICO II",
+        "docente": "OROPEZA CLAURE GUSTAVO ADOLFO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            }
+        ]
+    },
+    {
+        "sigla": "LIN101",
+        "grupo": "SB",
+        "materia": "INGLES TECNICO II",
+        "docente": "CLAURE MEDRANO DE OROPEZA ELIZ",
+        "horarios": [
+            {
+                "dia": "Mie",
+                "inicio": "8:30",
+                "fin": "10:00"
+            },
+            {
+                "dia": "Lun",
+                "inicio": "8:30",
+                "fin": "10:00"
+            }
+        ]
+    },
+    {
+        "sigla": "INF418",
+        "grupo": "SA",
+        "materia": "INTELIGENCIA ARTIFICIAL",
+        "docente": "VARGAS YAPURA EDWIN",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "18:15",
+                "fin": "20:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "18:15",
+                "fin": "20:30"
+            }
+        ]
+    },
+    {
+        "sigla": "ELC106",
+        "grupo": "SA",
+        "materia": "INTERACCION HOMBRE-COMPUTADOR",
+        "docente": "PEINADO PEREIRA MIGUEL JESUS",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "20:30",
+                "fin": "22:00"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "20:30",
+                "fin": "22:00"
+            }
+        ]
+    },
+    {
+        "sigla": "RDS320",
+        "grupo": "SA",
+        "materia": "INTERPRETRACION DE SISTEMAS Y SEÑALES",
+        "docente": "RISSIOTTI VELASQUEZ EDGAR ZACA",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "16:00",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "16:00",
+                "fin": "18:15"
+            }
+        ]
+    },
+    {
+        "sigla": "INF110",
+        "grupo": "SB",
+        "materia": "INTRODUCCION A LA INFORMATICA",
+        "docente": "ZUNA VILLAGOMEZ RICARDO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF110",
+        "grupo": "Z3",
+        "materia": "INTRODUCCION A LA INFORMATICA",
+        "docente": "ZUNA VILLAGOMEZ RICARDO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "15:15",
+                "fin": "16:45"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "15:15",
+                "fin": "16:45"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "15:15",
+                "fin": "16:45"
+            }
+        ]
+    },
+    {
+        "sigla": "INF110",
+        "grupo": "SD",
+        "materia": "INTRODUCCION A LA INFORMATICA",
+        "docente": "MOLLO MAMANI ALBERTO",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "18:15",
+                "fin": "20:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "18:15",
+                "fin": "20:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF110",
+        "grupo": "SF",
+        "materia": "INTRODUCCION A LA INFORMATICA",
+        "docente": "GARZON CUELLAR ANGELICA",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "8:30",
+                "fin": "10:00"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "8:30",
+                "fin": "10:00"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "8:30",
+                "fin": "10:00"
+            }
+        ]
+    },
+    {
+        "sigla": "INF110",
+        "grupo": "SI",
+        "materia": "INTRODUCCION A LA INFORMATICA",
+        "docente": "VEIZAGA GONZALES JOSUE OBED",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "9:15",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "9:15",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF110",
+        "grupo": "SN",
+        "materia": "INTRODUCCION A LA INFORMATICA",
+        "docente": "TAPIA FLORES LUIS PERCY",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "18:15",
+                "fin": "20:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "18:15",
+                "fin": "20:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF110",
+        "grupo": "SS",
+        "materia": "INTRODUCCION A LA INFORMATICA",
+        "docente": "ZUNA VILLAGOMEZ RICARDO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "16:45",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "16:45",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "16:45",
+                "fin": "18:15"
+            }
+        ]
+    },
+    {
+        "sigla": "INF110",
+        "grupo": "SY",
+        "materia": "INTRODUCCION A LA INFORMATICA",
+        "docente": "ALIAGA HOWARD SHARON KENNY",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF110",
+        "grupo": "SZ",
+        "materia": "INTRODUCCION A LA INFORMATICA",
+        "docente": "CONTRERAS VILLEGAS JUAN CARLOS",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF110",
+        "grupo": "Z1",
+        "materia": "INTRODUCCION A LA INFORMATICA",
+        "docente": "LOPEZ WINNIPEG MARIO MILTON",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF110",
+        "grupo": "Z2",
+        "materia": "INTRODUCCION A LA INFORMATICA",
+        "docente": "GARZON CUELLAR ANGELICA",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF110",
+        "grupo": "Z4",
+        "materia": "INTRODUCCION A LA INFORMATICA",
+        "docente": "CONTRERAS VILLEGAS JUAN CARLOS",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "13:45",
+                "fin": "15:15"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "13:45",
+                "fin": "15:15"
+            }
+        ]
+    },
+    {
+        "sigla": "INF110",
+        "grupo": "Z5",
+        "materia": "INTRODUCCION A LA INFORMATICA",
+        "docente": "MOLLO MAMANI ALBERTO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "18:15",
+                "fin": "19:45"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "18:15",
+                "fin": "19:45"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "18:15",
+                "fin": "19:45"
+            }
+        ]
+    },
+    {
+        "sigla": "INF110",
+        "grupo": "Z6",
+        "materia": "INTRODUCCION A LA INFORMATICA",
+        "docente": "LOPEZ WINNIPEG MARIO MILTON",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "9:15",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "9:15",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT329",
+        "grupo": "SB",
+        "materia": "INVESTIG. OPERATIVA I",
+        "docente": "TORREZ CAMACHO LUZ DIANA",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "19:45",
+                "fin": "21:15"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "19:45",
+                "fin": "21:15"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "19:45",
+                "fin": "21:15"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT329",
+        "grupo": "SZ",
+        "materia": "INVESTIG. OPERATIVA I",
+        "docente": "SUAREZ CESPEDES MELBY",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "21:15",
+                "fin": "22:45"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "19:45",
+                "fin": "22:45"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT419",
+        "grupo": "SA",
+        "materia": "INVESTIGAC. OPERATIVA II",
+        "docente": "DAVALOS SANCHEZ DE MANCILLA PI",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "10:00",
+                "fin": "12:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "10:00",
+                "fin": "12:15"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT419",
+        "grupo": "SC",
+        "materia": "INVESTIGAC. OPERATIVA II",
+        "docente": "POR DESIGNAR",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "21:15",
+                "fin": "22:45"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "21:15",
+                "fin": "22:45"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "21:15",
+                "fin": "22:45"
+            }
+        ]
+    },
+    {
+        "sigla": "ELC008",
+        "grupo": "SA",
+        "materia": "LEGISL.EN CIENCIAS DE LA COMPUTACION",
+        "docente": "JUSTINIANO FLORES CARMEN LILIA",
+        "horarios": [
+            {
+                "dia": "Mie",
+                "inicio": "18:15",
+                "fin": "19:45"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "18:15",
+                "fin": "19:45"
+            }
+        ]
+    },
+    {
+        "sigla": "RDS429",
+        "grupo": "SA",
+        "materia": "LEGISLAC.EN REDES Y COMUNICACIONES",
+        "docente": "LAMAS RODRIGUEZ MARCOS RODRIGO",
+        "horarios": [
+            {
+                "dia": "Mie",
+                "inicio": "14:30",
+                "fin": "16:45"
+            },
+            {
+                "dia": "Sab",
+                "inicio": "14:30",
+                "fin": "16:45"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT205",
+        "grupo": "SA",
+        "materia": "LENGUAJES FORMALES",
+        "docente": "MIRANDA CARRASCO CARLOS",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            }
+        ]
+    },
+    {
+        "sigla": "ELC206",
+        "grupo": "SA",
+        "materia": "LINEAS DE TRANSMIS. Y ANTENAS",
+        "docente": "RISSIOTTI VELASQUEZ EDGAR ZACA",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "8:30",
+                "fin": "10:00"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "8:30",
+                "fin": "10:00"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT205",
+        "grupo": "SC",
+        "materia": "METODOS NUMERICOS",
+        "docente": "GIANELLA PEREDO LUIS ANTONIO",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "7:00",
+                "fin": "9:15"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT205",
+        "grupo": "SD",
+        "materia": "METODOS NUMERICOS",
+        "docente": "GIANELLA PEREDO EDUARDO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "9:15",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "9:15",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT205",
+        "grupo": "SE",
+        "materia": "METODOS NUMERICOS",
+        "docente": "GIANELLA PEREDO LUIS ANTONIO",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "9:15",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "9:15",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT205",
+        "grupo": "C1",
+        "materia": "METODOS NUMERICOS",
+        "docente": "MORENO SUAREZ ENRIQUE",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "16:45",
+                "fin": "19:00"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "16:45",
+                "fin": "19:00"
+            }
+        ]
+    },
+    {
+        "sigla": "ADM330",
+        "grupo": "SA",
+        "materia": "ORGANIZACION Y METODOS",
+        "docente": "TERRAZAS SOTO RICARDO",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "9:15",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "9:15",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "ADM330",
+        "grupo": "SC",
+        "materia": "ORGANIZACION Y METODOS",
+        "docente": "CABELLO MERIDA JUAN RUBEN",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "ECO449",
+        "grupo": "SA",
+        "materia": "PREPARAC.Y EVALUAC.DE PROYECTOS",
+        "docente": "GUTIERREZ BRUNO KATIME ESTHER",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "9:15",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "9:15",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "ECO449",
+        "grupo": "SI",
+        "materia": "PREPARAC.Y EVALUAC.DE PROYECTOS",
+        "docente": "PEREZ FERREIRA UBALDO",
+        "horarios": [
+            {
+                "dia": "Mie",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "7:00",
+                "fin": "9:15"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT202",
+        "grupo": "SB",
+        "materia": "PROBABILIDADES Y ESTADIST.I",
+        "docente": "CANO CESPEDES JORGE",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "9:15",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "9:15",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT202",
+        "grupo": "SC",
+        "materia": "PROBABILIDADES Y ESTADIST.I",
+        "docente": "CACERES CHACON BRAULIO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT202",
+        "grupo": "SD",
+        "materia": "PROBABILIDADES Y ESTADIST.I",
+        "docente": "CASTRO MARISCAL JHONNY",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "18:15",
+                "fin": "20:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "18:15",
+                "fin": "20:30"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT202",
+        "grupo": "SI",
+        "materia": "PROBABILIDADES Y ESTADIST.I",
+        "docente": "SANCHEZ RIOJA EDWIN ALEJANDRO",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "19:00",
+                "fin": "21:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "19:00",
+                "fin": "21:15"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT302",
+        "grupo": "SA",
+        "materia": "PROBABILIDADES Y ESTADISTICAS II",
+        "docente": "CACERES CHACON BRAULIO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT302",
+        "grupo": "SB",
+        "materia": "PROBABILIDADES Y ESTADISTICAS II",
+        "docente": "CANO CESPEDES JORGE",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "9:15",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "9:15",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "MAT302",
+        "grupo": "SI",
+        "materia": "PROBABILIDADES Y ESTADISTICAS II",
+        "docente": "GUTHRIE PACHECO MIGUEL ANGEL",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "19:00",
+                "fin": "20:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "19:00",
+                "fin": "20:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "19:00",
+                "fin": "20:30"
+            }
+        ]
+    },
+    {
+        "sigla": "ELC003",
+        "grupo": "SA",
+        "materia": "PRODUCCION Y MARKETING",
+        "docente": "ATILA LIJERON JHONNY DAVID",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "18:15",
+                "fin": "19:45"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "18:15",
+                "fin": "19:45"
+            }
+        ]
+    },
+    {
+        "sigla": "INF318",
+        "grupo": "SA",
+        "materia": "PROGRAMAC.LOGICA Y FUNCIONAL",
+        "docente": "BARROSO VIRUEZ GINO",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "18:15",
+                "fin": "20:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "18:15",
+                "fin": "20:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF221",
+        "grupo": "SC",
+        "materia": "PROGRAMACION ENSAMBLADOR",
+        "docente": "VALLET VALLET CORRADO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF221",
+        "grupo": "SA",
+        "materia": "PROGRAMACION ENSAMBLADOR",
+        "docente": "VALLET VALLET CORRADO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF221",
+        "grupo": "SB",
+        "materia": "PROGRAMACION ENSAMBLADOR",
+        "docente": "VALLET VALLET CORRADO",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "7:00",
+                "fin": "9:15"
+            }
+        ]
+    },
+    {
+        "sigla": "INF221",
+        "grupo": "SX",
+        "materia": "PROGRAMACION ENSAMBLADOR",
+        "docente": "FLORES GUZMAN VALENTIN VICTOR",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "19:45",
+                "fin": "22:00"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "19:45",
+                "fin": "22:00"
+            }
+        ]
+    },
+    {
+        "sigla": "ELC102",
+        "grupo": "SA",
+        "materia": "PROGRAMACION GRAFICA",
+        "docente": "PEINADO PEREIRA MIGUEL JESUS",
+        "horarios": [
+            {
+                "dia": "Sab",
+                "inicio": "8:30",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF120",
+        "grupo": "SA",
+        "materia": "PROGRAMACION I",
+        "docente": "BALCAZAR VEIZAGA EVANS",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF120",
+        "grupo": "SC",
+        "materia": "PROGRAMACION I",
+        "docente": "PEINADO PEREIRA MIGUEL JESUS",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "16:45",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "16:45",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "16:45",
+                "fin": "18:15"
+            }
+        ]
+    },
+    {
+        "sigla": "INF120",
+        "grupo": "SG",
+        "materia": "PROGRAMACION I",
+        "docente": "MOLLO MAMANI ALBERTO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "19:45",
+                "fin": "21:15"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "19:45",
+                "fin": "21:15"
+            }
+        ]
+    },
+    {
+        "sigla": "INF120",
+        "grupo": "SB",
+        "materia": "PROGRAMACION I",
+        "docente": "MOLLO MAMANI ALBERTO",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "7:00",
+                "fin": "9:15"
+            }
+        ]
+    },
+    {
+        "sigla": "INF120",
+        "grupo": "SD",
+        "materia": "PROGRAMACION I",
+        "docente": "VARGAS YAPURA EDWIN",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "16:45",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "16:45",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "16:45",
+                "fin": "18:15"
+            }
+        ]
+    },
+    {
+        "sigla": "INF120",
+        "grupo": "SF",
+        "materia": "PROGRAMACION I",
+        "docente": "BALCAZAR VEIZAGA EVANS",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF120",
+        "grupo": "SH",
+        "materia": "PROGRAMACION I",
+        "docente": "PEINADO PEREIRA MIGUEL JESUS",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "16:00",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "16:00",
+                "fin": "18:15"
+            }
+        ]
+    },
+    {
+        "sigla": "INF120",
+        "grupo": "SI",
+        "materia": "PROGRAMACION I",
+        "docente": "MOLLO MAMANI ALBERTO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF210",
+        "grupo": "SD",
+        "materia": "PROGRAMACION II",
+        "docente": "LOPEZ NEGRETTY MARY DUNNIA",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "18:15",
+                "fin": "20:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "18:15",
+                "fin": "20:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF210",
+        "grupo": "SA",
+        "materia": "PROGRAMACION II",
+        "docente": "CONTRERAS VILLEGAS JUAN CARLOS",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "13:45",
+                "fin": "16:00"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "13:45",
+                "fin": "16:00"
+            }
+        ]
+    },
+    {
+        "sigla": "INF210",
+        "grupo": "SB",
+        "materia": "PROGRAMACION II",
+        "docente": "CONTRERAS VILLEGAS JUAN CARLOS",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "9:15",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "9:15",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF210",
+        "grupo": "SC",
+        "materia": "PROGRAMACION II",
+        "docente": "CONTRERAS VILLEGAS JUAN CARLOS",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "7:00",
+                "fin": "9:15"
+            }
+        ]
+    },
+    {
+        "sigla": "INF210",
+        "grupo": "SI",
+        "materia": "PROGRAMACION II",
+        "docente": "PEREZ DELGADILLO SHIRLEY EULAL",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "16:00",
+                "fin": "17:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "16:00",
+                "fin": "17:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "16:00",
+                "fin": "17:30"
+            }
+        ]
+    },
+    {
+        "sigla": "ELC208",
+        "grupo": "SA",
+        "materia": "REDES ADHOC",
+        "docente": "VILLAGOMEZ MELGAR JOSE JUNIOR",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "21:15",
+                "fin": "22:45"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "21:15",
+                "fin": "22:45"
+            }
+        ]
+    },
+    {
+        "sigla": "INF433",
+        "grupo": "SB",
+        "materia": "REDES I",
+        "docente": "MONRROY DIPP VICTOR FERNANDO",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "9:15",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "9:15",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF433",
+        "grupo": "SA",
+        "materia": "REDES I",
+        "docente": "GONZALES SANDOVAL JORGE ANTONI",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "19:45",
+                "fin": "21:15"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "19:45",
+                "fin": "21:15"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "19:45",
+                "fin": "21:15"
+            }
+        ]
+    },
+    {
+        "sigla": "INF433",
+        "grupo": "SC",
+        "materia": "REDES I",
+        "docente": "VILLAGOMEZ MELGAR JOSE JUNIOR",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "19:00",
+                "fin": "21:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "19:00",
+                "fin": "21:15"
+            }
+        ]
+    },
+    {
+        "sigla": "INF423",
+        "grupo": "R1",
+        "materia": "REDES II",
+        "docente": "PAZ MENDOZA ROBERTO CARLOS",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF423",
+        "grupo": "SB",
+        "materia": "REDES II",
+        "docente": "GONZALES SANDOVAL JORGE ANTONI",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "18:15",
+                "fin": "20:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "18:15",
+                "fin": "20:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF423",
+        "grupo": "SC",
+        "materia": "REDES II",
+        "docente": "GONZALES SANDOVAL JORGE ANTONI",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "18:15",
+                "fin": "19:45"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "18:15",
+                "fin": "19:45"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "18:15",
+                "fin": "19:45"
+            }
+        ]
+    },
+    {
+        "sigla": "RDS512",
+        "grupo": "SA",
+        "materia": "REDES INALAMBRIC.Y COMUNIC.MOVILES",
+        "docente": "CABALLERO RUA MAURICIO CHRISTI",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "18:15",
+                "fin": "20:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "18:15",
+                "fin": "20:30"
+            }
+        ]
+    },
+    {
+        "sigla": "RDS519",
+        "grupo": "SA",
+        "materia": "SEGURIDAD EN REDES Y TRANSMIS.DATOS",
+        "docente": "BALCAZAR VEIZAGA EVANS",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "9:15",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "9:15",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "ELT354",
+        "grupo": "R1",
+        "materia": "SENALES Y SISTEMAS",
+        "docente": "LAZO QUISPE SEBASTIAN",
+        "horarios": [
+            {
+                "dia": "Mie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "15:15",
+                "fin": "16:45"
+            },
+            {
+                "dia": "Sab",
+                "inicio": "15:15",
+                "fin": "16:45"
+            }
+        ]
+    },
+    {
+        "sigla": "ELT374",
+        "grupo": "SR",
+        "materia": "SISTEMAS DE COMUNICACION I",
+        "docente": "SEVERICHE TOLEDO SAUL",
+        "horarios": [
+            {
+                "dia": "Mie",
+                "inicio": "13:45",
+                "fin": "16:00"
+            },
+            {
+                "dia": "Sab",
+                "inicio": "10:00",
+                "fin": "12:15"
+            }
+        ]
+    },
+    {
+        "sigla": "ELT384",
+        "grupo": "SR",
+        "materia": "SISTEMAS DE COMUNICACION II",
+        "docente": "SELAYA GARVIZU IVAN VLADISHLAV",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "13:00",
+                "fin": "16:00"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "13:45",
+                "fin": "15:15"
+            }
+        ]
+    },
+    {
+        "sigla": "ELC203",
+        "grupo": "R1",
+        "materia": "SISTEMAS DE COMUNICACION SCADA",
+        "docente": "ROSALES FUENTES JORGE MARCELO",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "18:15",
+                "fin": "19:45"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "18:15",
+                "fin": "19:45"
+            }
+        ]
+    },
+    {
+        "sigla": "INF442",
+        "grupo": "SI",
+        "materia": "SISTEMAS DE INFORM.GEOGRAFICA",
+        "docente": "PEREZ FERREIRA UBALDO",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "13:00",
+                "fin": "15:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "13:00",
+                "fin": "15:15"
+            }
+        ]
+    },
+    {
+        "sigla": "INF442",
+        "grupo": "SA",
+        "materia": "SISTEMAS DE INFORM.GEOGRAFICA",
+        "docente": "CALDERON FLORES MODESTO FRANKL",
+        "horarios": [
+            {
+                "dia": "Mie",
+                "inicio": "18:15",
+                "fin": "19:45"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "18:15",
+                "fin": "19:45"
+            },
+            {
+                "dia": "Lun",
+                "inicio": "18:15",
+                "fin": "19:45"
+            }
+        ]
+    },
+    {
+        "sigla": "INF342",
+        "grupo": "SA",
+        "materia": "SISTEMAS DE INFORMACION I",
+        "docente": "GARZON CUELLAR ANGELICA",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "9:15",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "9:15",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF342",
+        "grupo": "SC",
+        "materia": "SISTEMAS DE INFORMACION I",
+        "docente": "GARZON CUELLAR ANGELICA",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF412",
+        "grupo": "SB",
+        "materia": "SISTEMAS DE INFORMACION II",
+        "docente": "MARTINEZ CANEDO ROLANDO ANTONI",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "16:45",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "16:45",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "16:45",
+                "fin": "18:15"
+            }
+        ]
+    },
+    {
+        "sigla": "INF412",
+        "grupo": "SA",
+        "materia": "SISTEMAS DE INFORMACION II",
+        "docente": "GARZON CUELLAR ANGELICA",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "7:00",
+                "fin": "9:15"
+            }
+        ]
+    },
+    {
+        "sigla": "INF428",
+        "grupo": "SB",
+        "materia": "SISTEMAS EXPERTOS",
+        "docente": "BARROSO VIRUEZ GINO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "ELT352",
+        "grupo": "ER",
+        "materia": "SISTEMAS LOGICOS Y DIGITALES I",
+        "docente": "CABALLERO RUA MAURICIO CHRISTI",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "16:00",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "16:00",
+                "fin": "18:15"
+            }
+        ]
+    },
+    {
+        "sigla": "ELT362",
+        "grupo": "R1",
+        "materia": "SISTEMAS LOGICOS Y DIGITALES II",
+        "docente": "HINOJOSA SAAVEDRA JOSE SAID",
+        "horarios": [
+            {
+                "dia": "Jue",
+                "inicio": "11:30",
+                "fin": "13:45"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "11:30",
+                "fin": "13:45"
+            }
+        ]
+    },
+    {
+        "sigla": "INF323",
+        "grupo": "SA",
+        "materia": "SISTEMAS OPERATIVOS I",
+        "docente": "BARROSO VIRUEZ GINO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            }
+        ]
+    },
+    {
+        "sigla": "INF323",
+        "grupo": "SC",
+        "materia": "SISTEMAS OPERATIVOS I",
+        "docente": "BARROSO VIRUEZ GINO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "8:30",
+                "fin": "10:00"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "8:30",
+                "fin": "10:00"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "8:30",
+                "fin": "10:00"
+            }
+        ]
+    },
+    {
+        "sigla": "INF413",
+        "grupo": "SA",
+        "materia": "SISTEMAS OPERATIVOS II",
+        "docente": "SANCHEZ VELASCO ENRIQUE",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "8:30",
+                "fin": "10:00"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "8:30",
+                "fin": "10:00"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "8:30",
+                "fin": "10:00"
+            }
+        ]
+    },
+    {
+        "sigla": "INF413",
+        "grupo": "SB",
+        "materia": "SISTEMAS OPERATIVOS II",
+        "docente": "CALLE TERRAZAS EDWIN",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "16:00",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "16:00",
+                "fin": "18:15"
+            }
+        ]
+    },
+    {
+        "sigla": "INF432",
+        "grupo": "SA",
+        "materia": "SISTEMAS PARA EL SOPORTE A LA TOMA DE DECISIONES",
+        "docente": "PEINADO PEREIRA MIGUEL JESUS",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "18:15",
+                "fin": "19:45"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "18:15",
+                "fin": "19:45"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "18:15",
+                "fin": "19:45"
+            }
+        ]
+    },
+    {
+        "sigla": "RDS421",
+        "grupo": "SA",
+        "materia": "TALLER DE ANALISIS Y DISENO DE REDES",
+        "docente": "GONZALES SANDOVAL JORGE ANTONI",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "21:15",
+                "fin": "22:45"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "21:15",
+                "fin": "22:45"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "21:15",
+                "fin": "22:45"
+            }
+        ]
+    },
+    {
+        "sigla": "INF511",
+        "grupo": "SS",
+        "materia": "TALLER DE GRADO I",
+        "docente": "VILLAGOMEZ MELGAR JOSE JUNIOR",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "19:45",
+                "fin": "21:15"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "19:45",
+                "fin": "21:15"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "19:45",
+                "fin": "21:15"
+            }
+        ]
+    },
+    {
+        "sigla": "INF511",
+        "grupo": "SC",
+        "materia": "TALLER DE GRADO I",
+        "docente": "VARGAS PEÑA LEONARDO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "19:45",
+                "fin": "21:15"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "19:45",
+                "fin": "21:15"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "19:45",
+                "fin": "21:15"
+            }
+        ]
+    },
+    {
+        "sigla": "INF511",
+        "grupo": "SA",
+        "materia": "TALLER DE GRADO I",
+        "docente": "MARTINEZ CANEDO ROLANDO ANTONI",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "20:30",
+                "fin": "22:45"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "20:30",
+                "fin": "22:45"
+            }
+        ]
+    },
+    {
+        "sigla": "INF513",
+        "grupo": "SA",
+        "materia": "TECNOLOGIA WEB",
+        "docente": "BALCAZAR VEIZAGA EVANS",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "8:30",
+                "fin": "10:00"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "8:30",
+                "fin": "10:00"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "8:30",
+                "fin": "10:00"
+            }
+        ]
+    },
+    {
+        "sigla": "INF513",
+        "grupo": "SC",
+        "materia": "TECNOLOGIA WEB",
+        "docente": "BALCAZAR VEIZAGA EVANS",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "7:00",
+                "fin": "9:15"
+            }
+        ]
+    },
+    {
+        "sigla": "ELC204",
+        "grupo": "SR",
+        "materia": "TELEVISION DIGITAL",
+        "docente": "ROSALES FUENTES JORGE MARCELO",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "9:15",
+                "fin": "12:15"
+            }
+        ]
+    },
+    {
+        "sigla": "ELT241",
+        "grupo": "SC",
+        "materia": "TEORIA DE CAMPOS",
+        "docente": "ROSALES FUENTES JORGE MARCELO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "10:00",
+                "fin": "11:30"
+            }
+        ]
+    },
+    {
+        "sigla": "ELC103",
+        "grupo": "SA",
+        "materia": "TOPIC.AVANZ.DE PROGRAMAC.",
+        "docente": "PEINADO PEREIRA MIGUEL JESUS",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "18:15",
+                "fin": "20:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "18:15",
+                "fin": "20:30"
+            }
+        ]
+    },
+    {
+        "sigla": "MET100",
+        "grupo": "W1",
+        "materia": "METODOLOGIA DE LA INVESTIGACION",
+        "docente": "POR DESIGNAR",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "19:00",
+                "fin": "20:30"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "19:00",
+                "fin": "20:30"
+            }
+        ]
+    },
+    {
+        "sigla": "ROB101",
+        "grupo": "W1",
+        "materia": "INTRODUCCION A LA ROBOTICA",
+        "docente": "FLORES GUZMAN VALENTIN VICTOR",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "16:00",
+                "fin": "18:15"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "16:00",
+                "fin": "18:15"
+            }
+        ]
+    },
+    {
+        "sigla": "ROB102",
+        "grupo": "W1",
+        "materia": "DIBUJO MECANICO EN CAD",
+        "docente": "FLORES GUZMAN VALENTIN VICTOR",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "13:45",
+                "fin": "16:00"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "13:45",
+                "fin": "16:00"
+            }
+        ]
+    },
+    {
+        "sigla": "ROB103",
+        "grupo": "W1",
+        "materia": "ESTATICA",
+        "docente": "LOBO LIMPIAS VICTOR HUGO",
+        "horarios": [
+            {
+                "dia": "Mie",
+                "inicio": "20:30",
+                "fin": "22:00"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "18:15",
+                "fin": "21:15"
+            }
+        ]
+    },
+    {
+        "sigla": "ROB104",
+        "grupo": "W1",
+        "materia": "PENSAMIENTO CRITICO Y CREATIVO",
+        "docente": "CALIZAYA AJHUACHO MAGNO EDWIN",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "20:30",
+                "fin": "22:00"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "20:30",
+                "fin": "22:00"
+            }
+        ]
+    },
+    {
+        "sigla": "ROB201",
+        "grupo": "W1",
+        "materia": "ELECTRICIDAD Y MAGNETISMO",
+        "docente": "ROSALES FUENTES JORGE MARCELO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "7:00",
+                "fin": "8:30"
+            }
+        ]
+    },
+    {
+        "sigla": "ROB202",
+        "grupo": "W1",
+        "materia": "TECNOLOGIAS DE LA MANUFACTURA",
+        "docente": "FLORES CUELLAD DAVID LUIS",
+        "horarios": [
+            {
+                "dia": "Mar",
+                "inicio": "7:00",
+                "fin": "9:15"
+            },
+            {
+                "dia": "Jue",
+                "inicio": "7:00",
+                "fin": "9:15"
+            }
+        ]
+    },
+    {
+        "sigla": "ROB203",
+        "grupo": "W1",
+        "materia": "DINAMICA",
+        "docente": "SALVATIERRA MERCADO ROLANDO",
+        "horarios": [
+            {
+                "dia": "Lun",
+                "inicio": "8:30",
+                "fin": "10:00"
+            },
+            {
+                "dia": "Mie",
+                "inicio": "8:30",
+                "fin": "10:00"
+            },
+            {
+                "dia": "Vie",
+                "inicio": "8:30",
+                "fin": "10:00"
+            }
+        ]
+    }
+]
